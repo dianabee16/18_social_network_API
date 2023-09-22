@@ -24,4 +24,4 @@ If you have any questions about the functionality of the application or installa
 N/A
 
 ## [Links](#table-of-contents)
-[Walkthrough Video]()
+[Walkthrough Video](https://watch.screencastify.com/v/z06XsXHjv239tRJEC8RM)
